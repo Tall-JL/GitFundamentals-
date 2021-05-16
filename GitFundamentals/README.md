@@ -7,3 +7,14 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git init](./Commands/Init.md)
 - [git add](./Commands/Add.md)
 - [git commit](.Commands/Commit.md)
+- [git commit](./Commands/Remote.md)
+- [git push](./Commands/Push.md)
+- [git pull](./Commands/Pull.md)
+- [git status](./Commands/Status.md)
+- [git clone](./Commands/Clone.md)
+
+## External Resources
+- [Marked Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [git Documentation](https://git-scm.com/docs)
+- [git ignore Dcoumentation](https://git-scm.com/docs/gitignore)
+- [git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
